@@ -1,0 +1,6 @@
+D:\Latihan Inheritance\latihaninheritance\bin\Debug\latihaninheritance.exe.config
+D:\Latihan Inheritance\latihaninheritance\bin\Debug\latihaninheritance.exe
+D:\Latihan Inheritance\latihaninheritance\bin\Debug\latihaninheritance.pdb
+D:\Latihan Inheritance\latihaninheritance\obj\Debug\latihaninheritance.csprojResolveAssemblyReference.cache
+D:\Latihan Inheritance\latihaninheritance\obj\Debug\latihaninheritance.exe
+D:\Latihan Inheritance\latihaninheritance\obj\Debug\latihaninheritance.pdb
